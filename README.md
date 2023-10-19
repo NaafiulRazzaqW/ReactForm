@@ -1,3 +1,3 @@
 # Kesimpulan
 
-tailwind sangat mirip seperti bootstrap namun ini lebih banyak kostumisasinya sehingga membuat kreasi lebih banyak
+mencoba react form memberikan saya beberapa pelajaran seperti onchange value dan lainnya
